@@ -1,0 +1,1 @@
+This is a basic terraform template, you can create a VPC, subnet, security group and instance with web server. 
